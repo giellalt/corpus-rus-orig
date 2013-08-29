@@ -101,7 +101,6 @@
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="'prikaz_46-12.minfin.doc'"/>
-<xsl:variable name="para_rus" select="'Prikaz_46-12.minfin.doc'"/>
 
 
 <!-- Tag the specified elements with the specified language: -->
